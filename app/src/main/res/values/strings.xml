@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Book Store</string>
+    <string name="openNavDrawer">Navigation Drawer Open</string>
+    <string name="closeNavDrawer">Navigation Drawer Close</string>
+    <string name="product_desc">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</string>
+    <string name="facebook_app_id">748939595846720</string>
+    <string name="fb_login_protocol_scheme">fb748939595846720</string>
+    <string name="book_store">Book Store</string>
+    <string name="login_hint">Email</string>
+    <string name="password_hint">Password</string>
+    <string name="login_text">LOGIN</string>
+    <string name="login_guest">Guest</string>
+    <string name="don_t_have_an_account">Don\'t have an account?</string>
+    <string name="create_new_user">Create new User</string>
+    <string name="logo">logo</string>
+    <string name="final_cost">FINAL COST :</string>
+    <string name="home_button">Home Button</string>
+    <string name="top_picks">Top Picks</string>
+    <string name="cart_btn">cart btn</string>
+    <string name="search_for_books">Search for books</string>
+
+</resources>

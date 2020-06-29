@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="User">
+        <menu>
+            <item android:title="My Orders"
+                android:icon="@drawable/bag"
+                android:id="@+id/nav_my_order" />
+            <item android:title="My Cart"
+                android:icon="@drawable/ic_shopping_cart_black_24dp"
+                android:id="@+id/nav_my_cart" />
+            <item android:title="My Profile"
+                android:icon="@drawable/touch"
+                android:id="@+id/nav_my_profile" />
+            <item android:title="Login"
+                android:icon="@drawable/rowing"
+                android:id="@+id/nav_logout" />
+
+        </menu>
+    </item>
+
+<!--    <item android:title="Apps">-->
+<!--        <menu>-->
+<!--            <item android:title="Settings"-->
+<!--                android:icon="@drawable/settings"-->
+<!--                android:id="@+id/nav_setting" />-->
+<!--            <item android:title="Account"-->
+<!--                android:icon="@drawable/person"-->
+<!--                android:id="@+id/nav_account" />-->
+<!--            <item android:title="Login"-->
+<!--                android:icon="@drawable/rowing"-->
+<!--                android:id="@+id/nav_logout" />-->
+
+<!--        </menu>-->
+<!--    </item>-->
+</menu>
